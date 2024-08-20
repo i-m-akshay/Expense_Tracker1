@@ -10,7 +10,7 @@ with tab1:  #Inside the first tab.
 
     with col2:
         st.write(
-            "Hello, I am Akshay, a robotics trainer and content developer :robot: . My parents find it challenging to manage and track their expenses. So, I created a website  to help them in tracking and managing their expenses. You can use this website to manage and track your expenses as well. I hope you all like it."
+            "Hello, I am Akshay, a robotics trainer and content developer :robot_face: . My parents find it challenging to manage and track their expenses. So, I created a website  to help them in tracking and managing their expenses. You can use this website to manage and track your expenses as well. I hope you all like it."
         )
 
 with tab2:  #Inside the second tab.
