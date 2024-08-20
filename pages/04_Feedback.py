@@ -32,7 +32,7 @@ if rating==4:
 if rating==5:
   emoji_holder.subheader("Thank you so much for your love" +":heart_eyes_cat:")
 
-col1, col2 = st.columns([0.1, 0.9])
+col1, col2 = st.columns([0.1, 2])
 with col1:
   submit = st.button("Submit :smile:")
 with col2:
